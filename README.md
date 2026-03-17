@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### 3. Run the project
 
 ```bash
-python src/main.py
+jupyter nbconvert --execute src/main.ipynb
 ```
 
 ---
